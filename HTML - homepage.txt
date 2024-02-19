@@ -1,0 +1,1848 @@
+<html lang="en"><head>
+<meta charset="utf-8">
+<title>My Hero Academia | TCB Scans</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="TCB Scans | Read One Piece Manga Online in High Quality at https://onepiecechapters.com/">
+<meta property="og:title" content="My Hero Academia | TCB Scans">
+<meta property="og:image" content="/files/logo.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:domain" content="onepiecechapters.com">
+<meta name="twitter:title" content="My Hero Academia | TCB Scans">
+<meta name="twitter:image" content="/files/logo.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/files/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/files/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/files/favicon-16x16.png">
+<link rel="manifest" href="/files/site.webmanifest">
+<link rel="mask-icon" href="/files/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/files/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/files/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" type="text/css" href="/files/assets/site.css?id=b9aadfdeb13ee1b326959d85cca4f385">
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css"> .qc-cmp-button.qc-cmp-secondary-button:hover {    background-color: #368bd6 !important;    border-color: transparent !important;  }  .qc-cmp-button.qc-cmp-secondary-button:hover {    color: #ffffff !important;  }  .qc-cmp-button.qc-cmp-secondary-button {    color: #368bd6 !important;  }  .qc-cmp-button.qc-cmp-secondary-button {    background-color: #eee !important;    border-color: transparent !important;  } </style><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-39VX73608X&amp;cx=c&amp;_slc=1"></script><script src="//delivery.r2b2.cz/js/6.88.2/online/public/bundle.8604d5da4c3f92c943a9.js" charset="UTF-8"></script><script src="//ads.pubmatic.com/AdServer/js/pwt/158361/3614/pwt.js"></script><script src="https://static.criteo.net/js/ld/publishertag.standalone.js"></script></head><body class="font-body antialiased text-white bg-body"><div id="bg_6233168474"></div><script async="" type="text/javascript" src="https://cmp.inmobi.com/tcfv2/cmp2.js?referer=tcbscans.com"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-39VX73608X&amp;l=dataLayer&amp;cx=c"></script><script async="" type="text/javascript" src="https://cmp.inmobi.com/choice/kLGbkzP_fVd7c/tcbscans.com/choice.js?tag_version=V3"></script><script data-cfasync="false" type="text/javascript" src="//platform.bidgear.com/ads.php?domainid=6233&amp;sizeid=16&amp;zoneid=8474"></script><script type="text/javascript" async="true"> (function() { var host = window.location.hostname; var element = document.createElement('script'); var firstScript = document.getElementsByTagName('script')[0]; var url = 'https://cmp.inmobi.com' .concat('/choice/', 'kLGbkzP_fVd7c', '/', host, '/choice.js?tag_version=V3'); var uspTries = 0; var uspTriesLimit = 3; element.async = true; element.type = 'text/javascript'; element.src = url; firstScript.parentNode.insertBefore(element, firstScript); function makeStub() { var TCF_LOCATOR_NAME = '__tcfapiLocator'; var queue = []; var win = window; var cmpFrame; function addFrame() { var doc = win.document; var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]); if (!otherCMP) { if (doc.body) { var iframe = doc.createElement('iframe'); iframe.style.cssText = 'display:none'; iframe.name = TCF_LOCATOR_NAME; doc.body.appendChild(iframe); } else { setTimeout(addFrame, 5); } } return !otherCMP; } function tcfAPIHandler() { var gdprApplies; var args = arguments; if (!args.length) { return queue; } else if (args[0] === 'setGdprApplies') { if ( args.length > 3 && args[2] === 2 && typeof args[3] === 'boolean' ) { gdprApplies = args[3]; if (typeof args[2] === 'function') { args[2]('set', true); } } } else if (args[0] === 'ping') { var retr = { gdprApplies: gdprApplies, cmpLoaded: false, cmpStatus: 'stub' }; if (typeof args[2] === 'function') { args[2](retr); } } else { if(args[0] === 'init' && typeof args[3] === 'object') { args[3] = Object.assign(args[3], { tag_version: 'V3' }); } queue.push(args); } } function postMessageEventHandler(event) { var msgIsString = typeof event.data === 'string'; var json = {}; try { if (msgIsString) { json = JSON.parse(event.data); } else { json = event.data; } } catch (ignore) {} var payload = json.__tcfapiCall; if (payload) { window.__tcfapi( payload.command, payload.version, function(retValue, success) { var returnMsg = { __tcfapiReturn: { returnValue: retValue, success: success, callId: payload.callId } }; if (msgIsString) { returnMsg = JSON.stringify(returnMsg); } if (event && event.source && event.source.postMessage) { event.source.postMessage(returnMsg, '*'); } }, payload.parameter ); } } while (win) { try { if (win.frames[TCF_LOCATOR_NAME]) { cmpFrame = win; break; } } catch (ignore) {} if (win === window.top) { break; } win = win.parent; } if (!cmpFrame) { addFrame(); win.__tcfapi = tcfAPIHandler; win.addEventListener('message', postMessageEventHandler, false); } }; makeStub(); var uspStubFunction = function() { var arg = arguments; if (typeof window.__uspapi !== uspStubFunction) { setTimeout(function() { if (typeof window.__uspapi !== 'undefined') { window.__uspapi.apply(window.__uspapi, arg); } }, 500); } }; var checkIfUspIsReady = function() { uspTries++; if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) { console.warn('USP is not accessible'); } else { clearInterval(uspInterval); } }; if (typeof window.__uspapi === 'undefined') { window.__uspapi = uspStubFunction; var uspInterval = setInterval(checkIfUspIsReady, 6000); } })(); </script><iframe name="__tcfapiLocator" style="display: none;"></iframe>
+<script async="" data-cfasync="false" src="https://cdn.pubfuture-ad.com/v2/unit/pt.js" type="text/javascript"></script>
+<script>    var url_string = window.location.href;
+    var url = new URL(url_string);
+    var date = url.searchParams.get("date");
+
+    const today = new Date();
+    const yyyy = today.getFullYear();
+    let mm = today.getMonth() + 1;
+    let dd = today.getDate();
+    let h = today.getHours();
+
+    var fdate = dd +"-"+ mm +"-" + yyyy+"-" + h;
+    console.log(fdate);
+
+    if (date == null) {
+        window.location.href = window.location.href + "?date="+ fdate ;
+    }  else if (date != fdate) {
+        window.location.href = location.protocol + '//' + location.host + location.pathname + "?date=" + fdate;
+    }
+</script>
+<div id="pf-5964-1" class="PUBFUTURE" style="position: relative; margin: auto; clear: both; width: 1px;"><script>window.pubfuturetag = window.pubfuturetag || [];window.pubfuturetag.push({unit: "651c03fcddcd79003ea7b0c9", id: "pf-5964-1"})</script><style>
+    #radio_content {
+        position: fixed;
+        top: 80px;
+        z-index: 9999;
+        background: linear-gradient(to bottom, #0A0A0A, #222222);
+        border-radius: 0px 20px 20px 0px;
+        overflow: hidden;
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: center;
+        padding: 0px 0px 0px 10px;
+        transition-duration: 1s;
+        border-top: 3px solid #333333;
+        border-bottom: 3px solid #333333;
+        border-right: 3px solid #333333;
+
+    }
+    #radio_content.abierto {
+        left: 0;
+    }
+    #radio_content.cerrado {
+        left: -170px;
+    }
+    #radio_content img {
+        color: #fff;
+        cursor: pointer;
+    }
+    #radio_content.abierto img#abrir_radio, #radio_content.cerrado img#cerrar_radio {
+        display: none;
+    }
+</style>
+
+<div id="radio_content" class="abierto">
+<img id="cerrar_radio" src="https://radioonlinehd.s3.amazonaws.com/images/radioads/left-chevron.png" width="30" height="50">
+<img id="abrir_radio" src="https://radioonlinehd.s3.amazonaws.com/images/radioads/right-chevron.png" width="30" height="50">
+<iframe src="https://players.radioonlinehd.net/ads/tcb_radio.html" style="border:none;" scrolling="no" frameborder="0" width="160px" height="70"></iframe>
+</div>
+<script>
+    const abrir_radio = document.getElementById('abrir_radio');
+    const cerrar_radio = document.getElementById('cerrar_radio');
+    const radio_content = document.getElementById('radio_content');
+
+    abrir_radio.addEventListener('click', function () {
+        radio_content.classList.add('abierto');
+        radio_content.classList.remove('cerrado');
+    });
+
+    cerrar_radio.addEventListener('click', function () {
+        radio_content.classList.remove('abierto');
+        radio_content.classList.add('cerrado');
+    });
+</script></div>
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-153518836-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153518836-3');
+</script>
+
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Banner Ad Script</title>
+<style>
+  .banner-ad-wrapper {
+    width: 350px;
+    height: 194px;
+    overflow: hidden;
+    position: relative;
+    border: 1px solid #ddd; /* Optional: adds a border around the ad */
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.2); /* Optional: adds a shadow for better visibility */
+  }
+  .banner-ad-wrapper img {
+    width: 100%;
+    height: auto;
+  }
+</style>
+
+<div id="bg_6233297830"></div><script data-cfasync="false" type="text/javascript" src="//platform.bidgear.com/ads.php?domainid=6233&amp;sizeid=29&amp;zoneid=7830"></script><div class="bg-ssp-7830" style="position:relative!important;text-align:left!important;"><div style="display:none"><img data-cfasync="false" src="//imp9.bidgear.com/rec?t=1&amp;z=7830&amp;uuid=2511864f19a14c599e0c628694f7e561&amp;p=17&amp;g=US&amp;token=4a44335432&amp;tbg=1708280649" rel="noindex nofollow" referrerpolicy="unsafe-url"></div> <script async="" src="https://tags.h12-media.com/load2.js"></script> <script type="text/javascript" src="//delivery.r2b2.cz/get/bd.tcbscans.com/generic/sticky"></script> <script async="" src="https://adxbid.info/tcbscanscom__vignette.js"></script><style>.bg-ssp-7830{margin-left:auto;margin-right:auto;justify-content:center;}</style></div>
+
+
+<header class="bg-black">
+<div class="container px-4 py-2 mx-auto flex flex-col items-center justify-between md:flex-row">
+<div class="w-full flex items-center justify-between">
+<a href="/" aria-label="Homepage"><img src="/files/h-logo.png" width="150px"></a>
+<div class="flex md:hidden mr-5">
+<button id="js-nav-menu-btn" class="" type="button" aria-label="Toggle navigation" aria-expanded="false">
+<svg class="fill-current text-white" height="24" width="24" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+</svg>
+</button>
+</div>
+</div>
+<div id="js-nav-menu" class="hidden md:block">
+<nav class="flex flex-col md:flex-row text-lg font-bold gap-3 ">
+<a class="text-white hover:text-link hover:border-b-4 hover:border-link" href="/">Home</a>
+<a class="text-white hover:text-link hover:border-b-4 hover:border-link" href="/projects">Projects</a>
+<a class="text-white hover:text-link hover:border-b-4 hover:border-link" href="https://discord.gg/tcbscans">Discord</a>
+<a class="text-white hover:text-link hover:border-b-4 hover:border-link" href="https://twitter.com/tcBScans">Twitter</a>
+</nav>
+</div>
+</div>
+</header>
+<main>
+<div class="overflow-hidden">
+<div class="container mx-auto p-4">
+<div class="grid md:grid-cols-3 gap-3">
+<div class="col-span-2">
+<div class="text-xl font-bold uppercase mb-3">List of Chapters</div>
+<a href="/chapters/7667/my-hero-academia-chapter-414" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 414</div>
+<div class="text-gray-500">Overlay</div>
+</a>
+<a href="/chapters/7607/my-hero-academia-chapter-413" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 413</div>
+<div class="text-gray-500">Lump of Lead</div>
+</a>
+<a href="/chapters/7600/my-hero-academia-chapter-412" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 412</div>
+<div class="text-gray-500">History’s Craziest Hero</div>
+</a>
+<a href="/chapters/7588/my-hero-academia-chapter-411" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 411</div>
+<div class="text-gray-500">The Greatest Evil</div>
+</a>
+<a href="/chapters/7583/my-hero-academia-chapter-410" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 410</div>
+<div class="text-gray-500">Farewell! All For One</div>
+</a>
+<a href="/chapters/7567/my-hero-academia-chapter-409" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 409</div>
+<div class="text-gray-500">Quirk!! Explosion!!</div>
+</a>
+<a href="/chapters/7558/my-hero-academia-chapter-408" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 408</div>
+<div class="text-gray-500">Eyes Full of Determination!!</div>
+</a>
+<a href="/chapters/7551/my-hero-academia-chapter-407" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 407</div>
+<div class="text-gray-500">Paranormal Orphan</div>
+</a>
+<a href="/chapters/7546/my-hero-academia-chapter-406" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 406</div>
+<div class="text-gray-500">Understand your own quirk!!</div>
+</a>
+<a href="/chapters/7533/my-hero-academia-chapter-405" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 405</div>
+<div class="text-gray-500">Final Boss</div>
+</a>
+<a href="/chapters/7529/my-hero-academia-chapter-404" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 404</div>
+<div class="text-gray-500">We love you, All Might!!</div>
+</a>
+<a href="/chapters/7525/my-hero-academia-chapter-403" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 403</div>
+<div class="text-gray-500">The End of an Era, and...</div>
+</a>
+<a href="/chapters/7506/my-hero-academia-chapter-402" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 402</div>
+<div class="text-gray-500">The Tearful Days</div>
+</a>
+<a href="/chapters/7493/my-hero-academia-chapter-401" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 401</div>
+<div class="text-gray-500">The Lunatic</div>
+</a>
+<a href="/chapters/7485/my-hero-academia-chapter-400" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 400</div>
+<div class="text-gray-500">To The Limit</div>
+</a>
+<a href="/chapters/7479/my-hero-academia-chapter-399" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 399</div>
+<div class="text-gray-500">Organic Alternating Current Lamp</div>
+</a>
+<a href="/chapters/7474/my-hero-academia-chapter-398" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 398</div>
+<div class="text-gray-500">Toshinori Yagi: Rising Origin</div>
+</a>
+<a href="/chapters/7471/my-hero-academia-chapter-397" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 397</div>
+<div class="text-gray-500">Taking out the Trash</div>
+</a>
+<a href="/chapters/7457/my-hero-academia-chapter-396" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 396</div>
+<div class="text-gray-500">A Quirkless Fight</div>
+</a>
+<a href="/chapters/7443/my-hero-academia-chapter-395" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 395</div>
+<div class="text-gray-500">Beyond Hapiness</div>
+</a>
+<a href="/chapters/7429/my-hero-academia-chapter-394" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 394</div>
+<div class="text-gray-500">Ochako Uraraka vs. Himiko Toga</div>
+</a>
+<a href="/chapters/7422/my-hero-academia-chapter-393" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 393</div>
+<div class="text-gray-500">A Girl's Ego</div>
+</a>
+<a href="/chapters/7410/my-hero-academia-chapter-392-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 392</div>
+<div class="text-gray-500">Villain Name</div>
+</a>
+<a href="/chapters/7402/my-hero-academia-chapter-391-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 391</div>
+<div class="text-gray-500">The World She Rejected </div>
+</a>
+<a href="/chapters/7386/my-hero-academia-chapter-390-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 390</div>
+<div class="text-gray-500">Shoto Todoroki : Rising</div>
+</a>
+<a href="/chapters/7372/my-hero-academia-chapter-389-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 389</div>
+<div class="text-gray-500">Relief and Prayers</div>
+</a>
+<a href="/chapters/7366/my-hero-academia-chapter-388-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 388</div>
+<div class="text-gray-500">Toya</div>
+</a>
+<a href="/chapters/7362/my-hero-academia-chapter-387-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 387</div>
+<div class="text-gray-500">Congealed</div>
+</a>
+<a href="/chapters/7356/my-hero-academia-chapter-386-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 386</div>
+<div class="text-gray-500">I Am Here</div>
+</a>
+<a href="/chapters/7342/my-hero-academia-chapter-385-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 385</div>
+<div class="text-gray-500">A Youthful Urge</div>
+</a>
+<a href="/chapters/5826/my-hero-academia-chapter-384-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 384</div>
+<div class="text-gray-500">It's a small World</div>
+</a>
+<a href="/chapters/5683/my-hero-academia-chapter-383-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 383</div>
+<div class="text-gray-500">A Small Heart</div>
+</a>
+<a href="/chapters/5656/my-hero-academia-chapter-382-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 382</div>
+<div class="text-gray-500">You won't get away!!</div>
+</a>
+<a href="/chapters/5648/my-hero-academia-chapter-381-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 381</div>
+<div class="text-gray-500">Darkness</div>
+</a>
+<a href="/chapters/5640/my-hero-academia-chapter-380-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 380</div>
+<div class="text-gray-500">Close Call for Realsies</div>
+</a>
+<a href="/chapters/5616/my-hero-academia-chapter-379-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 379</div>
+<div class="text-gray-500">Hopes</div>
+</a>
+<a href="/chapters/5608/my-hero-academia-chapter-378-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 378</div>
+<div class="text-gray-500">The Story of how we all became Heroes, Part 4</div>
+</a>
+<a href="/chapters/5595/my-hero-academia-chapter-377-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 377</div>
+<div class="text-gray-500">All the efforts until now</div>
+</a>
+<a href="/chapters/5577/my-hero-academia-chapter-376-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 376</div>
+<div class="text-gray-500">A Storm to a Flower</div>
+</a>
+<a href="/chapters/5562/my-hero-academia-chapter-375-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 375</div>
+<div class="text-gray-500">A Total Mess</div>
+</a>
+<a href="/chapters/5549/my-hero-academia-chapter-374-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 374</div>
+<div class="text-gray-500">Butterfly Effect</div>
+</a>
+<a href="/chapters/5541/my-hero-academia-chapter-373-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 373</div>
+<div class="text-gray-500">Friends</div>
+</a>
+<a href="/chapters/4719/my-hero-academia-chapter-372-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 372</div>
+<div class="text-gray-500">Naked</div>
+</a>
+<a href="/chapters/4709/my-hero-academia-chapter-371-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 371</div>
+<div class="text-gray-500">Together with Shoji-kun</div>
+</a>
+<a href="/chapters/4707/my-hero-academia-chapter-370-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 370</div>
+<div class="text-gray-500">HIStory</div>
+</a>
+<a href="/chapters/4306/my-hero-academia-chapter-369-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 369</div>
+<div class="text-gray-500">Many Years</div>
+</a>
+<a href="/chapters/4299/my-hero-academia-chapter-368-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 368</div>
+<div class="text-gray-500">OFA Unleashed</div>
+</a>
+<a href="/chapters/4289/my-hero-academia-chapter-367-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 367</div>
+<div class="text-gray-500">Deku Vs AFO</div>
+</a>
+<a href="/chapters/4286/my-hero-academia-chapter-366-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 366</div>
+<div class="text-gray-500">Peach</div>
+</a>
+<a href="/chapters/4266/my-hero-academia-chapter-365-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 365</div>
+<div class="text-gray-500">No.4 &amp; No.5</div>
+</a>
+<a href="/chapters/4261/my-hero-academia-chapter-364-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 364</div>
+<div class="text-gray-500">What Do You Use Your Power For?</div>
+</a>
+<a href="/chapters/4251/my-hero-academia-chapter-363-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 363</div>
+<div class="text-gray-500">Protectors and Invaders</div>
+</a>
+<a href="/chapters/3937/my-hero-academia-chapter-362-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 362</div>
+<div class="text-gray-500">Light Fades to Rain</div>
+</a>
+<a href="/chapters/3926/my-hero-academia-chapter-361-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 361</div>
+<div class="text-gray-500">Anomaly</div>
+</a>
+<a href="/chapters/3822/my-hero-academia-chapter-360-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 360</div>
+<div class="text-gray-500">Even after all that!</div>
+</a>
+<a href="/chapters/3817/my-hero-academia-chapter-359-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 359</div>
+<div class="text-gray-500">Our School!</div>
+</a>
+<a href="/chapters/3720/my-hero-academia-chapter-358-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 358</div>
+<div class="text-gray-500">A Small Step for a Man!</div>
+</a>
+<a href="/chapters/2320/my-hero-academia-chapter-357-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 357</div>
+<div class="text-gray-500">The Real Thing! A Wounded Hero</div>
+</a>
+<a href="/chapters/2316/my-hero-academia-chapter-356-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 356</div>
+<div class="text-gray-500">Know Your Enemy</div>
+</a>
+<a href="/chapters/2303/my-hero-academia-chapter-355-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 355</div>
+<div class="text-gray-500">Extras</div>
+</a>
+<a href="/chapters/2297/my-hero-academia-chapter-354-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 354</div>
+<div class="text-gray-500">Here!!</div>
+</a>
+<a href="/chapters/2282/my-hero-academia-chapter-353-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 353</div>
+<div class="text-gray-500">Endeavor</div>
+</a>
+<a href="/chapters/2273/my-hero-academia-chapter-352-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 352</div>
+<div class="text-gray-500">Ultimate Move</div>
+</a>
+<a href="/chapters/2198/my-hero-academia-chapter-351-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 351</div>
+<div class="text-gray-500">Twin Flashing Flames</div>
+</a>
+<a href="/chapters/1511/my-hero-academia-chapter-350-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 350</div>
+<div class="text-gray-500">Flames</div>
+</a>
+<a href="/chapters/1500/my-hero-academia-chapter-349-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 349</div>
+<div class="text-gray-500">Battle Flame</div>
+</a>
+<a href="/chapters/1487/my-hero-academia-chapter-348-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 348</div>
+<div class="text-gray-500">Unrequited Love</div>
+</a>
+<a href="/chapters/1483/my-hero-academia-chapter-347-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 347</div>
+<div class="text-gray-500">Inflation</div>
+</a>
+<a href="/chapters/733/my-hero-academia-chapter-346-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 346</div>
+<div class="text-gray-500">Super Hyper Entrapment Stage</div>
+</a>
+<a href="/chapters/427/my-hero-academia-chapter-345-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 345</div>
+<div class="text-gray-500">Division</div>
+</a>
+<a href="/chapters/415/my-hero-academia-chapter-344-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 344</div>
+<div class="text-gray-500">The Protagonist </div>
+</a>
+<a href="/chapters/410/my-hero-academia-chapter-343-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 343</div>
+<div class="text-gray-500">Let You Down</div>
+</a>
+<a href="/chapters/394/my-hero-academia-chapter-342-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 342</div>
+<div class="text-gray-500">The Calm Before the Storm</div>
+</a>
+<a href="/chapters/374/my-hero-academia-chapter-341-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 341</div>
+<div class="text-gray-500">The Story of how We All Became Heroes Minus ?</div>
+</a>
+<a href="/chapters/358/my-hero-academia-chapter-340-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 340</div>
+<div class="text-gray-500">The Story of how We All Became Heroes Part ?</div>
+</a>
+<a href="/chapters/345/my-hero-academia-chapter-339-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 339</div>
+<div class="text-gray-500">The Story of how We All Became Heroes Part ?</div>
+</a>
+<a href="/chapters/327/my-hero-academia-chapter-338-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 338</div>
+<div class="text-gray-500">The Story of how We All Became Heroes Part ?</div>
+</a>
+<a href="/chapters/301/my-hero-academia-chapter-337-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 337</div>
+<div class="text-gray-500">A Disposable Life</div>
+</a>
+<a href="/chapters/288/my-hero-academia-chapter-336-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 336</div>
+<div class="text-gray-500">Villian</div>
+</a>
+<a href="/chapters/271/my-hero-academia-chapter-335-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 335</div>
+<div class="text-gray-500">Fledgling</div>
+</a>
+<a href="/chapters/259/my-hero-academia-chapter-334-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 334</div>
+<div class="text-gray-500">Parting Gift</div>
+</a>
+<a href="/chapters/241/my-hero-academia-chapter-333-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 333</div>
+<div class="text-gray-500">Ghost</div>
+</a>
+<a href="/chapters/226/my-hero-academia-chapter-332-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 332</div>
+<div class="text-gray-500">New Model Hypersonic Intercontinental Ballistics</div>
+</a>
+<a href="/chapters/213/my-hero-academia-chapter-331-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 331</div>
+<div class="text-gray-500">America</div>
+</a>
+<a href="/chapters/172/my-hero-academia-chapter-330-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 330</div>
+<div class="text-gray-500">Me and Myself</div>
+</a>
+<a href="/chapters/152/my-hero-academia-chapter-329-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 329</div>
+<div class="text-gray-500">The West makes it just in time!! Ready to save the day!!</div>
+</a>
+<a href="/chapters/135/my-hero-academia-chapter-328-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 328</div>
+<div class="text-gray-500">Connected, Connected</div>
+</a>
+<a href="/chapters/136/my-hero-academia-chapter-327-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 327</div>
+<div class="text-gray-500">Rest!!!</div>
+</a>
+<a href="/chapters/29/my-hero-academia-chapter-326-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 326</div>
+<div class="text-gray-500">Who are you?</div>
+</a>
+<a href="/chapters/28/my-hero-academia-chapter-325-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 325</div>
+<div class="text-gray-500">Connected to One For All</div>
+</a>
+<a href="/chapters/27/my-hero-academia-chapter-324-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 324</div>
+<div class="text-gray-500">A Child's Insistence</div>
+</a>
+<a href="/chapters/26/my-hero-academia-chapter-323-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 323</div>
+<div class="text-gray-500">One Step</div>
+</a>
+<a href="/chapters/25/my-hero-academia-chapter-322-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 322</div>
+<div class="text-gray-500">Great Explosion Murder God Dynamight</div>
+</a>
+<a href="/chapters/24/my-hero-academia-chapter-321-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 321</div>
+<div class="text-gray-500">From Class A to One For All</div>
+</a>
+<a href="/chapters/23/my-hero-academia-chapter-320-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 320</div>
+<div class="text-gray-500">Deku vs Class A</div>
+</a>
+<a href="/chapters/22/my-hero-academia-chapter-319-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 319</div>
+<div class="text-gray-500">Friends</div>
+</a>
+<a href="/chapters/21/my-hero-academia-chapter-318-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 318</div>
+<div class="text-gray-500">Scars, Blood &amp; Mud</div>
+</a>
+<a href="/chapters/20/my-hero-academia-chapter-317-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 317</div>
+<div class="text-gray-500">Scars, Blood &amp; Mud</div>
+</a>
+<a href="/chapters/19/my-hero-academia-chapter-316-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 316</div>
+<div class="text-gray-500">The Next</div>
+</a>
+<a href="/chapters/18/my-hero-academia-chapter-315-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 315</div>
+<div class="text-gray-500">Cover-ups</div>
+</a>
+<a href="/chapters/16/my-hero-academia-chapter-314-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 314</div>
+<div class="text-gray-500">The Beautiful Lady Nagant</div>
+</a>
+<a href="/chapters/15/my-hero-academia-chapter-313-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 313</div>
+<div class="text-gray-500">Flying Artillery Battery</div>
+</a>
+<a href="/chapters/13/my-hero-academia-chapter-312-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 312</div>
+<div class="text-gray-500">Assassin</div>
+</a>
+<a href="/chapters/12/my-hero-academia-chapter-311-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 311</div>
+<div class="text-gray-500">They're Here!!</div>
+</a>
+<a href="/chapters/1833/my-hero-academia-chapter-310-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 310</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1832/my-hero-academia-chapter-309-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 309</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1831/my-hero-academia-chapter-308-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 308</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1830/my-hero-academia-chapter-307-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 307</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1829/my-hero-academia-chapter-306-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 306</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1828/my-hero-academia-chapter-305-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 305</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1827/my-hero-academia-chapter-304-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 304</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1826/my-hero-academia-chapter-303-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 303</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1825/my-hero-academia-chapter-302-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 302</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1824/my-hero-academia-chapter-301-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 301</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1823/my-hero-academia-chapter-300-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 300</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1822/my-hero-academia-chapter-299-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 299</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1821/my-hero-academia-chapter-298-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 298</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1820/my-hero-academia-chapter-297-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 297</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1819/my-hero-academia-chapter-296-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 296</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1818/my-hero-academia-chapter-295-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 295</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1817/my-hero-academia-chapter-294-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 294</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1816/my-hero-academia-chapter-293-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 293</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1815/my-hero-academia-chapter-292-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 292</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1814/my-hero-academia-chapter-291-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 291</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1813/my-hero-academia-chapter-290-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 290</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1811/my-hero-academia-chapter-289-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 289</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1810/my-hero-academia-chapter-288-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 288</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1809/my-hero-academia-chapter-287-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 287</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1808/my-hero-academia-chapter-286-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 286</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1807/my-hero-academia-chapter-285-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 285</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1806/my-hero-academia-chapter-284-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 284</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1805/my-hero-academia-chapter-283-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 283</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1804/my-hero-academia-chapter-282-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 282</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1803/my-hero-academia-chapter-281-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 281</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1802/my-hero-academia-chapter-280-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 280</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1800/my-hero-academia-chapter-279-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 279</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1799/my-hero-academia-chapter-278-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 278</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1798/my-hero-academia-chapter-277-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 277</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1797/my-hero-academia-chapter-276-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 276</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1796/my-hero-academia-chapter-275-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 275</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1795/my-hero-academia-chapter-274-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 274</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1794/my-hero-academia-chapter-273-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 273</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1793/my-hero-academia-chapter-272-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 272</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1792/my-hero-academia-chapter-271-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 271</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1791/my-hero-academia-chapter-270-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 270</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1790/my-hero-academia-chapter-269-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 269</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1789/my-hero-academia-chapter-268-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 268</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1788/my-hero-academia-chapter-267-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 267</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1787/my-hero-academia-chapter-266-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 266</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1786/my-hero-academia-chapter-265-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 265</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1785/my-hero-academia-chapter-264-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 264</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1784/my-hero-academia-chapter-263-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 263</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1783/my-hero-academia-chapter-262-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 262</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1782/my-hero-academia-chapter-261-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 261</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1781/my-hero-academia-chapter-260-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 260</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1780/my-hero-academia-chapter-259-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 259</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1779/my-hero-academia-chapter-258-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 258</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1778/my-hero-academia-chapter-257-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 257</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1777/my-hero-academia-chapter-256-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 256</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1776/my-hero-academia-chapter-255-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 255</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1775/my-hero-academia-chapter-254-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 254</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1774/my-hero-academia-chapter-253-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 253</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1773/my-hero-academia-chapter-252-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 252</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1772/my-hero-academia-chapter-251-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 251</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1771/my-hero-academia-chapter-250-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 250</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1770/my-hero-academia-chapter-249-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 249</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1769/my-hero-academia-chapter-248-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 248</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1768/my-hero-academia-chapter-247-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 247</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1767/my-hero-academia-chapter-246-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 246</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1766/my-hero-academia-chapter-245-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 245</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1765/my-hero-academia-chapter-244-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 244</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1764/my-hero-academia-chapter-243-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 243</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1763/my-hero-academia-chapter-242-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 242</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1762/my-hero-academia-chapter-241-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 241</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1761/my-hero-academia-chapter-240-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 240</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1760/my-hero-academia-chapter-239-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 239</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1759/my-hero-academia-chapter-238-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 238</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1758/my-hero-academia-chapter-237-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 237</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1757/my-hero-academia-chapter-236-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 236</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1756/my-hero-academia-chapter-235-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 235</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1755/my-hero-academia-chapter-234-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 234</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1754/my-hero-academia-chapter-233-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 233</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1753/my-hero-academia-chapter-232-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 232</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1752/my-hero-academia-chapter-231-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 231</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1751/my-hero-academia-chapter-230-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 230</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1750/my-hero-academia-chapter-229-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 229</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1749/my-hero-academia-chapter-228-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 228</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1748/my-hero-academia-chapter-227-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 227</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1747/my-hero-academia-chapter-226-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 226</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1746/my-hero-academia-chapter-225-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 225</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1745/my-hero-academia-chapter-224-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 224</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1744/my-hero-academia-chapter-223-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 223</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1743/my-hero-academia-chapter-222-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 222</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/4730/my-hero-academia-chapter-221-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 221</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1742/my-hero-academia-chapter-220-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 220</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1741/my-hero-academia-chapter-219-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 219</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1740/my-hero-academia-chapter-218-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 218</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1739/my-hero-academia-chapter-217-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 217</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1738/my-hero-academia-chapter-216-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 216</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1737/my-hero-academia-chapter-215-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 215</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1736/my-hero-academia-chapter-214-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 214</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1735/my-hero-academia-chapter-213-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 213</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1734/my-hero-academia-chapter-212-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 212</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1733/my-hero-academia-chapter-211-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 211</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1732/my-hero-academia-chapter-210-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 210</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1731/my-hero-academia-chapter-209-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 209</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1730/my-hero-academia-chapter-208-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 208</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1729/my-hero-academia-chapter-207-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 207</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1728/my-hero-academia-chapter-206-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 206</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1727/my-hero-academia-chapter-205-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 205</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1726/my-hero-academia-chapter-204-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 204</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1725/my-hero-academia-chapter-203-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 203</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1723/my-hero-academia-chapter-202-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 202</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1722/my-hero-academia-chapter-201-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 201</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1721/my-hero-academia-chapter-200-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 200</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1720/my-hero-academia-chapter-199-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 199</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1719/my-hero-academia-chapter-198-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 198</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1718/my-hero-academia-chapter-197-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 197</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1717/my-hero-academia-chapter-196-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 196</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1716/my-hero-academia-chapter-195-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 195</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1715/my-hero-academia-chapter-194-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 194</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1714/my-hero-academia-chapter-193-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 193</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1713/my-hero-academia-chapter-192-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 192</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1712/my-hero-academia-chapter-191-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 191</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1711/my-hero-academia-chapter-190-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 190</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1710/my-hero-academia-chapter-189-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 189</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1709/my-hero-academia-chapter-188-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 188</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1708/my-hero-academia-chapter-187-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 187</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1707/my-hero-academia-chapter-186-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 186</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1706/my-hero-academia-chapter-185-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 185</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1705/my-hero-academia-chapter-184-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 184</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1704/my-hero-academia-chapter-183-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 183</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1703/my-hero-academia-chapter-182-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 182</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1702/my-hero-academia-chapter-181-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 181</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1701/my-hero-academia-chapter-180-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 180</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1700/my-hero-academia-chapter-179-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 179</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1699/my-hero-academia-chapter-178-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 178</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1698/my-hero-academia-chapter-177-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 177</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1697/my-hero-academia-chapter-176-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 176</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1696/my-hero-academia-chapter-175-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 175</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1695/my-hero-academia-chapter-174-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 174</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1694/my-hero-academia-chapter-173-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 173</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1693/my-hero-academia-chapter-172-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 172</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1692/my-hero-academia-chapter-171-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 171</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1691/my-hero-academia-chapter-170-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 170</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1690/my-hero-academia-chapter-169-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 169</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1689/my-hero-academia-chapter-168-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 168</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1688/my-hero-academia-chapter-167-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 167</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1687/my-hero-academia-chapter-166-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 166</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1686/my-hero-academia-chapter-165-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 165</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1685/my-hero-academia-chapter-164-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 164</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1684/my-hero-academia-chapter-163-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 163</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1683/my-hero-academia-chapter-162-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 162</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1682/my-hero-academia-chapter-161-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 161</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1681/my-hero-academia-chapter-160-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 160</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1680/my-hero-academia-chapter-159-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 159</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1679/my-hero-academia-chapter-158-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 158</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1678/my-hero-academia-chapter-157-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 157</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1677/my-hero-academia-chapter-156-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 156</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1676/my-hero-academia-chapter-155-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 155</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1675/my-hero-academia-chapter-154-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 154</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1674/my-hero-academia-chapter-153-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 153</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1673/my-hero-academia-chapter-152-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 152</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1672/my-hero-academia-chapter-151-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 151</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1671/my-hero-academia-chapter-150-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 150</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1670/my-hero-academia-chapter-149-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 149</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1669/my-hero-academia-chapter-148-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 148</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1668/my-hero-academia-chapter-147-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 147</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1667/my-hero-academia-chapter-146-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 146</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1666/my-hero-academia-chapter-145-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 145</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1665/my-hero-academia-chapter-144-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 144</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1664/my-hero-academia-chapter-143-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 143</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1663/my-hero-academia-chapter-142-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 142</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1662/my-hero-academia-chapter-141-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 141</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1661/my-hero-academia-chapter-140-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 140</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1660/my-hero-academia-chapter-139-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 139</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1659/my-hero-academia-chapter-138-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 138</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1658/my-hero-academia-chapter-137-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 137</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1657/my-hero-academia-chapter-136-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 136</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1656/my-hero-academia-chapter-135-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 135</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1655/my-hero-academia-chapter-134-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 134</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1654/my-hero-academia-chapter-133-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 133</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1653/my-hero-academia-chapter-132-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 132</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1652/my-hero-academia-chapter-131-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 131</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1651/my-hero-academia-chapter-130-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 130</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1650/my-hero-academia-chapter-129-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 129</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1649/my-hero-academia-chapter-128-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 128</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1648/my-hero-academia-chapter-127-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 127</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1647/my-hero-academia-chapter-126-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 126</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1646/my-hero-academia-chapter-125-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 125</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1645/my-hero-academia-chapter-124-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 124</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1644/my-hero-academia-chapter-123-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 123</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1643/my-hero-academia-chapter-122-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 122</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1642/my-hero-academia-chapter-121-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 121</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1641/my-hero-academia-chapter-120-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 120</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1640/my-hero-academia-chapter-119-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 119</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1639/my-hero-academia-chapter-118-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 118</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1638/my-hero-academia-chapter-117-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 117</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1637/my-hero-academia-chapter-116-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 116</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1636/my-hero-academia-chapter-115-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 115</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1635/my-hero-academia-chapter-114-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 114</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1633/my-hero-academia-chapter-113-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 113</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1632/my-hero-academia-chapter-112-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 112</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1631/my-hero-academia-chapter-111-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 111</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1630/my-hero-academia-chapter-110-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 110</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1629/my-hero-academia-chapter-109-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 109</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1628/my-hero-academia-chapter-108-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 108</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1627/my-hero-academia-chapter-107-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 107</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1626/my-hero-academia-chapter-106-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 106</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1625/my-hero-academia-chapter-105-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 105</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1624/my-hero-academia-chapter-104-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 104</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1623/my-hero-academia-chapter-103-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 103</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1621/my-hero-academia-chapter-102-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 102</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1620/my-hero-academia-chapter-101-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 101</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1619/my-hero-academia-chapter-100-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 100</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1618/my-hero-academia-chapter-99-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 99</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1617/my-hero-academia-chapter-98-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 98</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1616/my-hero-academia-chapter-97-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 97</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1615/my-hero-academia-chapter-96-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 96</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1614/my-hero-academia-chapter-95-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 95</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1613/my-hero-academia-chapter-94-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 94</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1612/my-hero-academia-chapter-93-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 93</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1611/my-hero-academia-chapter-92-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 92</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1610/my-hero-academia-chapter-91-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 91</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1609/my-hero-academia-chapter-90-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 90</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1608/my-hero-academia-chapter-89-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 89</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1607/my-hero-academia-chapter-88-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 88</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1606/my-hero-academia-chapter-87-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 87</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1605/my-hero-academia-chapter-86-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 86</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1604/my-hero-academia-chapter-85-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 85</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1603/my-hero-academia-chapter-84-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 84</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1602/my-hero-academia-chapter-83-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 83</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1601/my-hero-academia-chapter-82-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 82</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1600/my-hero-academia-chapter-81-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 81</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1599/my-hero-academia-chapter-80-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 80</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1598/my-hero-academia-chapter-79-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 79</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1597/my-hero-academia-chapter-78-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 78</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1596/my-hero-academia-chapter-77-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 77</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1595/my-hero-academia-chapter-76-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 76</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1594/my-hero-academia-chapter-75-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 75</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1593/my-hero-academia-chapter-74-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 74</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1592/my-hero-academia-chapter-73-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 73</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1591/my-hero-academia-chapter-72-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 72</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1590/my-hero-academia-chapter-71-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 71</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1589/my-hero-academia-chapter-70-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 70</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1588/my-hero-academia-chapter-69-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 69</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1587/my-hero-academia-chapter-68-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 68</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1586/my-hero-academia-chapter-67-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 67</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1585/my-hero-academia-chapter-66-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 66</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1584/my-hero-academia-chapter-65-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 65</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1583/my-hero-academia-chapter-64-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 64</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1582/my-hero-academia-chapter-63-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 63</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1581/my-hero-academia-chapter-62-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 62</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1580/my-hero-academia-chapter-61-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 61</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1579/my-hero-academia-chapter-60-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 60</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1578/my-hero-academia-chapter-59-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 59</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1577/my-hero-academia-chapter-58-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 58</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1575/my-hero-academia-chapter-57-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 57</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1574/my-hero-academia-chapter-56-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 56</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1573/my-hero-academia-chapter-55-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 55</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1572/my-hero-academia-chapter-54-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 54</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1571/my-hero-academia-chapter-53-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 53</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1570/my-hero-academia-chapter-52-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 52</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1569/my-hero-academia-chapter-51-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 51</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1567/my-hero-academia-chapter-50-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 50</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1566/my-hero-academia-chapter-49-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 49</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1565/my-hero-academia-chapter-48-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 48</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1564/my-hero-academia-chapter-47-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 47</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1563/my-hero-academia-chapter-46-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 46</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1562/my-hero-academia-chapter-45-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 45</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1561/my-hero-academia-chapter-44-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 44</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1560/my-hero-academia-chapter-43-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 43</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1559/my-hero-academia-chapter-42-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 42</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1558/my-hero-academia-chapter-41-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 41</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1555/my-hero-academia-chapter-40-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 40</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1554/my-hero-academia-chapter-39-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 39</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1553/my-hero-academia-chapter-38-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 38</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1552/my-hero-academia-chapter-37-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 37</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1551/my-hero-academia-chapter-36-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 36</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1550/my-hero-academia-chapter-35-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 35</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1549/my-hero-academia-chapter-34-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 34</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1548/my-hero-academia-chapter-33-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 33</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1547/my-hero-academia-chapter-32-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 32</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1546/my-hero-academia-chapter-31-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 31</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1545/my-hero-academia-chapter-30-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 30</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1544/my-hero-academia-chapter-29-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 29</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1543/my-hero-academia-chapter-28-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 28</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1542/my-hero-academia-chapter-27-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 27</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1541/my-hero-academia-chapter-26-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 26</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1540/my-hero-academia-chapter-25-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 25</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1539/my-hero-academia-chapter-24-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 24</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1538/my-hero-academia-chapter-23-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 23</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1537/my-hero-academia-chapter-22-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 22</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1536/my-hero-academia-chapter-21-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 21</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1534/my-hero-academia-chapter-20-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 20</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1533/my-hero-academia-chapter-19-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 19</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1532/my-hero-academia-chapter-18-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 18</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1531/my-hero-academia-chapter-17-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 17</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1530/my-hero-academia-chapter-16-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 16</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1529/my-hero-academia-chapter-15-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 15</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1528/my-hero-academia-chapter-14-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 14</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1527/my-hero-academia-chapter-13-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 13</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1526/my-hero-academia-chapter-12-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 12</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1525/my-hero-academia-chapter-11-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 11</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1524/my-hero-academia-chapter-10-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 10</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1523/my-hero-academia-chapter-9-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 9</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1522/my-hero-academia-chapter-8-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 8</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1521/my-hero-academia-chapter-7-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 7</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1520/my-hero-academia-chapter-6-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 6</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1519/my-hero-academia-chapter-5-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 5</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1518/my-hero-academia-chapter-4-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 4</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1517/my-hero-academia-chapter-3-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 3</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1516/my-hero-academia-chapter-2-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 2</div>
+<div class="text-gray-500"></div>
+</a>
+<a href="/chapters/1515/my-hero-academia-chapter-1-review-1687770189" class="block border border-border bg-card mb-3 p-3 rounded">
+<div class="text-lg font-bold">My Hero Academia Chapter 1</div>
+<div class="text-gray-500"></div>
+</a>
+</div>
+<div class="order-1 md:order-2 bg-card border border-border rounded py-3">
+<div class="flex items-center justify-center">
+<img src="https://cdn.onepiecechapters.com/file/CDN-M-A-N/mhaDescriptionv2.png" alt="My Hero Academia" height="325">
+</div>
+<div class="px-4 py-6">
+<h1 class="my-3 font-bold text-3xl">My Hero Academia</h1>
+<p class="leading-6 my-3">The appearance of “quirks,” newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shape-shifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual. Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku’s unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might’s quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor. Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year’s freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container mx-auto p-4">
+<div class="flex flex-col md:flex-row items-center justify-between font-bold text-lg mx-3 md:mx-0">
+<div>TCB Scans © 2021</div>
+<div class="flex gap-5">
+<a href="/terms-of-service">Terms Of Service</a>
+<a href="/digital-millennium-copyright-act">Digital Millennium Copyright Act</a>
+<a href="/privacy-policy">Privacy Policy</a>
+</div>
+</div>
+</div>
+</main>
+<script type="application/javascript" src="/files/assets/site.js?id=0075c6193f83346e1a17fba5779ec50f"></script>
+<script type="text/javascript">
+                    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};
+                    ga.l=+new Date;
+                    ga('create', 'UA-153518836-3', 'auto');
+                    ga('send', 'pageview');
+                </script>
+<script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript"></script>
+
+
+<iframe src="https://gum.criteo.com/syncframe?origin=publishertag&amp;topUrl=tcbscans.com&amp;gdpr=0&amp;gdpr_consent=&amp;us_privacy=1---#{&quot;lwid&quot;:{&quot;origin&quot;:0},&quot;bundle&quot;:{&quot;value&quot;:&quot;9Lnc4l9YeFdNaU03aDJwTHRiJTJCanExaURhd2hENnR4azY2VVl5am5DTkEzQVJCd2FheFM0UyUyQnZQT1J4MmFGUDZBamNBZ21QUDExTXA0azhsdmZiVTB0dTR5RGZKJTJCQ0VVbjU0TTUlMkJRVzAlMkZucVMwRWJwd1BydFhGV0hWTTdhMENBNW8xa24&quot;,&quot;origin&quot;:3},&quot;optout&quot;:{&quot;value&quot;:false,&quot;origin&quot;:0},&quot;tld&quot;:&quot;tcbscans.com&quot;,&quot;topUrl&quot;:&quot;tcbscans.com&quot;,&quot;version&quot;:150,&quot;cw&quot;:true,&quot;lsw&quot;:true,&quot;origin&quot;:&quot;publishertag&quot;,&quot;requestId&quot;:&quot;0.4090577029282807&quot;}" width="0" height="0" frameborder="0" title="Criteo GUM iframe" style="border-width: 0px; margin: 0px; display: none;"></iframe><iframe frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://cdn.connectad.io/connectmyusers.php?gdpr=0&amp;gdpr_consent="></iframe><iframe frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&amp;p=158361&amp;gdpr=0&amp;gdpr_consent=&amp;us_privacy=1---"></iframe><iframe frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://js.adscale.de/pbsync.html?gdpr=0&amp;gdpr_consent="></iframe><iframe src="https://onetag-sys.com/usync/?cb=1708280658942&amp;us_privacy=1---" style="display: none;"></iframe><iframe frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="https://sync.a-mo.net/isyn?__st=iframe&amp;gdpr=0&amp;gdpr_consent=&amp;us_privacy=1---_e=CrsBSgx0Y2JzY2Fucy5jb21SC2Fhcy1kMzIwMGM2WghwYmExLjMuMWoMdGNic2NhbnMuY29t-gEKNS4yMC4wLXByZegCAIgDzpbJrgaoAxjqAyQ4YTIwNjkxYS01MjI3LTQ3NjktYjlkZS1lMjBmZDY1ZWQ5MGSqBANNT0KyBQNVU0TSBQkxMDUxOTk2MDPYBQHgBQHqBQdkZXNrdG9w-gUEZGMxM6oHA3dlYsoHDHRjYnNjYW5zLmNvbeAHAQ"></iframe><iframe src="https://gum.criteo.com/syncframe?origin=publishertag&amp;topUrl=tcbscans.com#{&quot;uid&quot;:{&quot;origin&quot;:0},&quot;lwid&quot;:{&quot;origin&quot;:0},&quot;bundle&quot;:{&quot;value&quot;:&quot;XeYvxV9YeFdNaU03aDJwTHRiJTJCanExaURhd2p4b2ZYR3hOT05XV2FPanFibjdBNEpyVzFJdGFiOEt3eXVBcm9nbmI1dURXNllZUHJQa3gwSk9LaXZXSVQxbnQyWWEwTWd3akhzTlRETDR6VEZMWDRzNmNTQzV6UVpWQm9pRERlTGlMZ0RDdWpZSWlyMkxldW02JTJGSSUyQmNVYk9wY2clM0QlM0Q&quot;,&quot;origin&quot;:3},&quot;optout&quot;:{&quot;value&quot;:false,&quot;origin&quot;:0},&quot;sid&quot;:{&quot;origin&quot;:0},&quot;tld&quot;:&quot;tcbscans.com&quot;,&quot;topUrl&quot;:&quot;tcbscans.com&quot;,&quot;version&quot;:123,&quot;cw&quot;:true,&quot;lsw&quot;:true,&quot;origin&quot;:&quot;publishertag&quot;,&quot;requestId&quot;:&quot;0.41918485302564745&quot;}" width="0" height="0" frameborder="0" title="Criteo GUM iframe" style="border-width: 0px; margin: 0px; display: none;"></iframe><iframe src="https://gum.criteo.com/syncframe?origin=publishertag&amp;topUrl=tcbscans.com#{&quot;uid&quot;:{&quot;origin&quot;:0},&quot;lwid&quot;:{&quot;origin&quot;:0},&quot;bundle&quot;:{&quot;value&quot;:&quot;NWhZWl9YeFdNaU03aDJwTHRiJTJCanExaURhd3BtYlJjVFU0RCUyQkFid0NTRUlJd1Vsbk80andyMmpCSkh5VGQlMkZEY1ppUWZna0pEendkeGc4NGdkb2FPWVNiUm9RQTZrdWU3TjlOc3ZOeUtRbmhPRE1sdGx5UDA3cURuYWdhamF2SmNFdHVZZUVpQjJad2glMkJIcmRzeVlSTGZ3VnRHQSUzRCUzRA&quot;,&quot;origin&quot;:3},&quot;optout&quot;:{&quot;value&quot;:false,&quot;origin&quot;:0},&quot;sid&quot;:{&quot;origin&quot;:0},&quot;tld&quot;:&quot;tcbscans.com&quot;,&quot;topUrl&quot;:&quot;tcbscans.com&quot;,&quot;version&quot;:123,&quot;cw&quot;:true,&quot;lsw&quot;:true,&quot;origin&quot;:&quot;publishertag&quot;,&quot;requestId&quot;:&quot;0.010174571097348872&quot;}" width="0" height="0" frameborder="0" title="Criteo GUM iframe" style="border-width: 0px; margin: 0px; display: none;"></iframe></body><h12 class="h12container" data-pub="f21629f80d751907d93079a5076d4249" data-adunit="31492" data-type="sticky" data-format="stickybottom" data-init="true" data-endpoint="https://tags.h12-media.com" data-auction="zkw3v2whf1" data-cnt="1" data-index="1" style="border: 0px; width: 845.517px; clear: both; padding: 0px; display: block; box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 20px 10px, rgba(0, 0, 0, 0.19) 0px 6px 20px 0px; height: 78.45px; margin-left: 86.7417px; position: fixed; bottom: 0px; left: 0px; z-index: 2147483647;"><div id="h12_cont_zkw3v2whf1" style="width: 100%; height: 78.45px;"><iframe id="h12_frm_zkw3v2whf1" scrolling="no" frameborder="0" width="100%" height="auto" marginheight="0" marginwidth="0" style="margin: 0px; padding: 0px; width: 100%; height: 78.45px; overflow: hidden;"></iframe><div id="h12_cont__cl_zkw3v2whf1" data-auction="zkw3v2whf1" style="position: absolute; width: 120px; height: 29px; display: block; clear: both; cursor: pointer; background-color: transparent; text-align: center; left: 50%; margin-left: -60px; top: -28px; z-index: 2147483647; border: 0px; border-top-left-radius: 2px; border-top-right-radius: 2px; background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAABHNCSVQICAgIfAhkiAAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABI0lEQVRIS+2Wy4qEMBREndmrHyOI/6Hi4/9XPnGriztdwUiMpW03IrOw4KBUQsqE3Is/juPIi9v0Oz9v0xN4uf5noOd589u+fN+f394LZbFLFEXStq2kaUrHQVmW0jSNhGFIxy2oqUDYMAwCjeMoSZJs5iBsmiY1p+/7M6HUlNcRqZ2ZskPNMK26rsV13dVaFtRUZFm2WRChcRzTMD3G1jKg5kKe53ThL8MANVcURbEJMPVBGKDmBnaE0IdhcnvhQ/RLTPZ2p4VdspLZgZoLe7eReUfNwYCaiqOrzy7SyVBqqsJHuzKlw/QcFlpV1feFjzaFdgXZYRqzTruukyAINnMsqLmAULSro6uPUOzsRBig5oo3R6Q4Mwc8f22X6wm8WI7zBwDozhpxRDDkAAAAAElFTkSuQmCC&quot;); background-repeat: no-repeat; background-position-x: 50%;"></div></div></h12></html>
